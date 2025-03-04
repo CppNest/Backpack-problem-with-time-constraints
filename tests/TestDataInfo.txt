@@ -1,0 +1,5 @@
+1. Wszystkie przedmioty mają mniejszą wagę łączną oraz łączny czas pakowania niż maksymalny
+2. Wszystkie przedmioty mają mniejszą wagę łączną niż max natomiast mają łączny czas pakowania większy niż maksymalny (trzeba jeden odrzucić)
+3. Wszystkie przedmioty mają mniejszy łączny czas pakowania niż max natomiast mają większą wagę łączną niż maksymalny (trzeba jeden odrzucić)
+4. Sytuacja w której tylko jeden z przedmiotów opłaca się wziąć, biorąc go skończy nam się czas na wzięcie pozostałych ale będzie to opłacalne
+5. Żaden przedmiot nie mieści się w wyznaczonej maksymalnej wadze

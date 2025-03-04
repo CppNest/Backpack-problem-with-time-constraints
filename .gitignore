@@ -1,0 +1,18 @@
+# Tymczasowe pliki
+*.tmp
+*.log
+*.swp
+
+# Pliki konfiguracyjne specyficzne dla użytkownika
+*.user
+*.suo
+*.vscode/
+
+# Pliki binarne lub kompilowane
+*.exe
+*.dll
+*.o
+*.obj
+*.class
+*.pyc
+*.jar

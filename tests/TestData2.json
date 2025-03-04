@@ -1,0 +1,11 @@
+{
+    "knapsack": {
+        "maxWeight": 60,
+        "maxTime": 15,
+        "items": [
+            { "id": 1, "value": 80, "weight": 15, "packingTime": 8 },
+            { "id": 2, "value": 100, "weight": 20, "packingTime": 10 },
+            { "id": 3, "value": 60, "weight": 10, "packingTime": 6 }
+        ]
+    }
+}

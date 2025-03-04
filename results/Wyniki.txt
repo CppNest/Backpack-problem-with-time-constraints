@@ -1,0 +1,6 @@
+Ocena jakości rozwiązań i testy
+Algorytm brute force jest najbardziej dokładny, ponieważ sprawdza wszystkie możliwe kombinacje przedmiotów, zapewniając optymalne rozwiązanie. Jednak jego czas działania rośnie wykładniczo wraz z liczbą przedmiotów, co czyni go niepraktycznym dla dużych problemów. Jakość rozwiązania jest więc najwyższa, ale nie jest skalowalny dla większych zestawów danych.
+
+Algorytm genetyczny oferuje kompromis między jakością a czasem wykonania. Dzięki selekcji, krzyżowaniu i mutacjom, może znaleźć bardzo dobre, choć nie zawsze optymalne rozwiązanie. Jest bardziej efektywny niż brute force, zwłaszcza w przypadku dużych problemów, ale może nie dawać najlepszego możliwego rozwiązania, szczególnie przy małej liczbie pokoleń lub złym doborze parametrów (np. współczynników krzyżowania i mutacji). Zatem jego jakość jest dobra, ale zależy od ustawionych parametrów.
+
+Algorytm zachłanny jest najprostszy i najszybszy, ale jego rozwiązania często są suboptymalne. Przedmioty są wybierane na podstawie lokalnie optymalnych decyzji (stosunek wartości do wagi), co może prowadzić do pominięcia lepszych kombinacji. Jakość rozwiązania w tym przypadku jest zwykle niższa niż w algorytmie genetycznym czy brute force, zwłaszcza w bardziej złożonych przypadkach.
