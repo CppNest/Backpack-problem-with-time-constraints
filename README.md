@@ -38,11 +38,11 @@ Celem projektu jest stworzenie aplikacji, która pozwala na rozwiązanie problem
 1. Upewnij się, że masz zainstalowany kompilator g++.
 2. Sklonuj repozytorium projektu na swój lokalny komputer:
     ```sh
-    git clone <URL_REPOZYTORIUM>
+    git clone https://github.com/CppNest/Backpack-problem-with-time-constraints
     ```
 3. Przejdź do katalogu projektu:
     ```sh
-    cd <NAZWA_KATALOGU>
+    cd Backpack-problem-with-time-constraints
     ```
 4. Skompiluj pliki źródłowe:
     ```sh
